@@ -1,0 +1,14 @@
+Change Component Footprint: Designator=C1 Old Footprint=CAPC2013X94X50ML20T25 New Footprint=CAPC2013X94X50LL20T25
+Change Component Footprint: Designator=C2 Old Footprint=CAPC2013X94X50ML20T25 New Footprint=CAPC2013X94X50LL20T25
+Change Component Footprint: Designator=C3 Old Footprint=CAPC2013X94X50ML20T25 New Footprint=CAPC2013X94X50LL20T25
+Change Component Footprint: Designator=C10 Old Footprint=CAPC2013X94X50ML20T25 New Footprint=CAPC2013X94X50LL20T25
+Change Component Footprint: Designator=C5 Old Footprint=CAPC2013X140X50ML20T25 New Footprint=CAPC2013X140X50LL20T25
+Change Component Footprint: Designator=C6 Old Footprint=CAPC2013X140X50ML20T25 New Footprint=CAPC2013X140X50LL20T25
+Change Component Footprint: Designator=C4 Old Footprint=CAPC2013X145X50ML20T25 New Footprint=CAPC2013X145X50LL20T25
+Change Component Footprint: Designator=C7 Old Footprint=CAPC2013X145X50ML20T25 New Footprint=CAPC2013X145X50LL20T25
+Change Component Footprint: Designator=C9 Old Footprint=CAPC2013X145X50ML20T25 New Footprint=CAPC2013X145X50LL20T25
+Change Component Footprint: Designator=R1 Old Footprint=FP-CRCW0805-e3-MFG New Footprint=FP-CRCW0805-e3-IPC_A
+Change Component Footprint: Designator=R4 Old Footprint=FP-RP732A-MFG New Footprint=FP-RP732A-IPC_A
+Change Component Footprint: Designator=R5 Old Footprint=RESC2013X60X30ML20T20 New Footprint=RESC2013X60X30LL20T20
+Change Component Footprint: Designator=R6 Old Footprint=RESC2013X60X30ML20T20 New Footprint=RESC2013X60X30LL20T20
+Change Component Footprint: Designator=R7 Old Footprint=RESC2013X60X30ML20T20 New Footprint=RESC2013X60X30LL20T20

@@ -1,0 +1,78 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\HP\Desktop\ESP32_DevKit\PROYECTO FINAL PCB.PcbDoc
+Date     : 28/05/2025
+Time     : 01:44:31
+
+Processing Rule : Clearance Constraint (Gap=5mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=5mil) (Max=1000mil) (Preferred=5mil) (All)
+Rule Violations :0
+
+Processing Rule : Routing Topology Rule(Topology=Shortest) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (InPadClass('PowerPads'))
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=11.811mil) (Conductor Width=5mil) (Air Gap=5mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=3mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=11.811mil) (Max=248.031mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=9.842mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=5mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Board Clearance Constraint (Gap=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=71497.938mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+Waived Violations Of Rule : Clearance Constraint (Gap=5mil) (All),(All)
+   Waived Violation between Clearance Constraint: (7.896mil < 9.842mil) Between Hole of Pad USB-C1-Un2(3936.22mil,1432.559mil) on Multi-Layer And Pad USB-C1-A4(3949.606mil,1474.488mil) on Top Layer Waived by Misael Us at 28/05/2025 01:37:47Taladro mecánico
+   Waived Violation between Clearance Constraint: (7.896mil < 9.842mil) Between Hole of Pad USB-C1-Un1(4163.779mil,1432.559mil) on Multi-Layer And Pad USB-C1-A9(4150.394mil,1474.488mil) on Top Layer Waived by Misael Us at 27/05/2025 17:22:11Taladro mecánico
+   Waived Violation between Clearance Constraint: (6.5mil < 9.842mil) Between Hole of Pad USB-C1-Un1(4163.779mil,1432.559mil) on Multi-Layer And Pad USB-C1-B1(4170.079mil,1474.488mil) on Top Layer Waived by Misael Us at 27/05/2025 17:24:50Taladro mecánico
+   Waived Violation between Clearance Constraint: (6.5mil < 9.842mil) Between Hole of Pad USB-C1-Un2(3936.22mil,1432.559mil) on Multi-Layer And Pad USB-C1-B12(3929.921mil,1474.488mil) on Top Layer Waived by Misael Us at 28/05/2025 01:37:53Taladro mecánico
+Waived Violations :4
+
+Waived Violations Of Rule : Un-Routed Net Constraint ( (All) )
+   Waived Violation between Un-Routed Net Constraint: Via (1775mil,1385mil) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.Waived by Misael Us at 28/05/2025 01:43:54Taladro mecánico
+   Waived Violation between Un-Routed Net Constraint: Via (4080mil,3885mil) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.Waived by Misael Us at 28/05/2025 01:43:04Taladro mecánico
+   Waived Violation between Un-Routed Net Constraint: Via (6030mil,1390mil) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.Waived by Misael Us at 28/05/2025 01:43:15Taladro mecánico
+Waived Violations :3
+
+Waived Violations Of Rule : Minimum Annular Ring (Minimum=3mil) (All)
+   Waived Violation between Minimum Annular Ring: (No Ring) Pad USB-C1-Un1(4163.779mil,1432.559mil) on Multi-Layer (Annular Ring missing on Bottom Layer)Waived by Misael Us at 28/05/2025 01:37:29Taladro mecánico
+   Waived Violation between Minimum Annular Ring: (No Ring) Pad USB-C1-Un2(3936.22mil,1432.559mil) on Multi-Layer (Annular Ring missing on Bottom Layer)Waived by Misael Us at 28/05/2025 01:37:59Taladro mecánico
+Waived Violations :2
+
+
+Violations Detected : 0
+Waived Violations : 9
+Time Elapsed        : 00:00:03
