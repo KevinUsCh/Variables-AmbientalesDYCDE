@@ -40,6 +40,16 @@ Distribución de pines
 
 ![image](https://github.com/user-attachments/assets/371505b9-95d9-4162-8140-8a629550ccc9)
 
+Licencia
+-
+![oshw_facts](https://github.com/user-attachments/assets/1e126615-04a2-4276-8c31-34aee6925b97)
+
+Contacto
+-
+Kevin US
+misael.us@galileo.edu
+
+
 
 
 
