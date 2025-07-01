@@ -43,6 +43,9 @@ Distribución de pines
 Licencia
 -
 ![oshw_facts](https://github.com/user-attachments/assets/1e126615-04a2-4276-8c31-34aee6925b97)
+![certification-mark-GT000021-stacked](https://github.com/user-attachments/assets/52c507c4-fcc3-44dc-afdf-c0f3e6b2ad82)
+
+
 
 Contacto
 -
